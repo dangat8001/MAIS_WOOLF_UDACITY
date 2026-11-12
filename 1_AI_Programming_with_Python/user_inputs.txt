@@ -1,0 +1,11 @@
+Transformational AI: Analyzing Ecommerce Large Datasets for Machine Learning
+Completed by: Everything goes well
+—————————————-
+
+Question 1: Data is related to reviews from multiple purchased products and has the user that made the review, including a title, description and numerical rating
+Question 2: It's a little bit rare and uncomfortable dealing with many text, may be we can improve display options
+Question 3: Modifiy visible options in order to make visible some entirely rows and columns, but still it can be better
+Question 4: It is more readable and also info is aggregated
+Question 5: We can apply some visual analysis in order to compare ranges for each variable of interest and compare between them
+Question 6: Most prices are concentrated below 100 price. And some get very high value to more than 800
+Question 7: Inependently of good average rating variation most of the prices are below
