@@ -1,11 +1,11 @@
 Transformational AI: Analyzing Ecommerce Large Datasets for Machine Learning
-Completed by: Everything goes well
+Completed by: Daniel Gaitán Forero
 —————————————-
 
-Question 1: Data is related to reviews from multiple purchased products and has the user that made the review, including a title, description and numerical rating
-Question 2: It's a little bit rare and uncomfortable dealing with many text, may be we can improve display options
-Question 3: Modifiy visible options in order to make visible some entirely rows and columns, but still it can be better
-Question 4: It is more readable and also info is aggregated
-Question 5: We can apply some visual analysis in order to compare ranges for each variable of interest and compare between them
-Question 6: Most prices are concentrated below 100 price. And some get very high value to more than 800
-Question 7: Inependently of good average rating variation most of the prices are below
+Question 1: Most of the columns are objects composed by descriptions using text, titles, and identifiers from hierarchical similarity products, user id, along with time of review creation and a numerical rating for the product accoring to user opinion.
+Question 2: It is partially well displayed. But clearly, there are some ways to make it more suitable for visualization.
+Question 3: Modifiy visible options in order to make visible some entirely rows and columns, but still it could be more readable
+Question 4: t is more readable and also info is aggregated. It is focused in product info in terms of number of reviews and average rating. Its title and description are more standard in terms of how a product description should be. The other dataset is more about user's ratings and its individual opinion about products.
+Question 5: Descriptive analysis as starting point, along with EDA with visualization tools included. It helps to hace more clear steps identifying which feature are relevant, how to clean your data and preparing before anything posterior analysis or actions.
+Question 6: Products with low prices tend to be rated more than other with high prices. Which has make sense. Given that people tend to buy more cheaper products. It is more feasible to obtain many reviews and ratings for products in the range of a couple of dollars than high number of reviews and ratings for product that cost thousands of dollars.
+Question 7: Low price products include a multiple rating values at scale of very good average rating (th >= 4.5). So addressed by average rating, there are very good cheap products.
